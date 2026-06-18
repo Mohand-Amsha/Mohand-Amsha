@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi mohand 
 
 <!--
 **Mohand-Amsha/Mohand-Amsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
